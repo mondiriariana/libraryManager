@@ -71,7 +71,7 @@ Navigate you to localhost:8080 and you are good to go!
 
 The default credentials are:
 
-username=admin
+username=user
 password=password
 
 Update authorizations and credentials using this file: WebSecurityConfig.java
