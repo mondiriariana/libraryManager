@@ -3,8 +3,8 @@
 Using https:
 
 ```bash
-git clone https://github.com/plaid/quickstart
-cd quickstart
+git clone https://github.com/Efhowell/libsys.git
+
 ```
 
 
