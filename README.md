@@ -10,6 +10,8 @@ cd librarydatabase
 
 ## 2. Dependencies
 
+ps: in the pom.xml check that the version of java you are using matches the version indicated in the pom.xml. This project uses version 21. You might have to downgrade depeding on what you use.
+
 The project relies on these following dependencies. spring-boot-starter-security, spring-security-test and thymeleaf-extras-springsecurity6 are relevant can be excluded if you are not interested in having the login homepage. Make sure you use the appropriate version that can be checked at on [npm website](https://www.npmjs.com/)
 ```bash
 
