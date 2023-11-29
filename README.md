@@ -66,3 +66,14 @@ mvn clean spring-boot:run
 ```
 
 Navigate you to localhost:8080 and you are good to go!
+
+## 3. Credentials additional notes
+
+The default credentials are:
+
+username=admin
+password=password
+
+Update authorizations and credentials using this file: WebSecurityConfig.java
+
+Relevant documents can be found using spring-boot documentation [spring-boot-security](https://spring.io/guides/topicals/spring-security-architecture/)
