@@ -1,6 +1,5 @@
 ## 1. Clone the repository
 
-Using https:
 
 ```bash
 git clone https://github.com/Efhowell/libsys.git
