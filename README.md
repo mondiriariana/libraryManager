@@ -7,7 +7,6 @@ This repository will help your buid your own library manager in just a few steps
 
 ```bash
 git clone https://github.com/Efhowell/libsys.git
-cd librarydatabase
 
 ```
 
